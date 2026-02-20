@@ -160,6 +160,5 @@ gcc -o lex_identifiers lex.yy.c -ll
 This project is for educational purposes.
 
 ## Author
-
-Created as a collection of Lex/Flex programming exercises.
+Abdul kalam aka kalamaay
 
